@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-3.13-blue)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-KNN-blueviolet)
+![Library](https://img.shields.io/badge/Scikit--Learn-KNN-orange)
+![Status](https://img.shields.io/badge/Status-Completed-green)
+![Made by](https://img.shields.io/badge/Made%20by-A.%20Hanif%20Nuryabana-yellow)
 # 🎓 KNN College Major Recommendation
 
 Proyek ini merupakan implementasi sederhana **Machine Learning menggunakan algoritma K-Nearest Neighbors (KNN)** untuk memberikan rekomendasi jurusan kuliah berdasarkan nilai akademik dan minat siswa.
